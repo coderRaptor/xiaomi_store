@@ -1,9 +1,5 @@
 /*
  * @Description: 插入模拟的数据库信息语句
- * @Author: hai-27
- * @Date: 2020-02-09 14:40:32
- * @LastEditors: hai-27
- * @LastEditTime: 2020-02-25 22:39:16
  */
 insert into category
 values(null, "手机");
