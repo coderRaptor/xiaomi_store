@@ -1,9 +1,5 @@
 /*
  * @Description: 建库建表语句
- * @Author: hai-27
- * @Date: 2020-02-07 16:51:58
- * @LastEditors: hai-27
- * @LastEditTime: 2020-03-27 15:36:01
  */
 create database storeDB;
 use storeDB;
